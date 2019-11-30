@@ -46,9 +46,8 @@ namespace Kavenegar {
         case Method::POST:
           req.post(url, query);
           break;
+          default: req.get(url);
         }
     }
-
   }
-
 }
