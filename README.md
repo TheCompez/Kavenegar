@@ -18,7 +18,7 @@ After that you just need to pick API-KEY up from <a href="http://panel.kavenegar
 - You need to CMake tool for build source code
 - Get Curl & RapidJson
 - All source code is written with Pure STL 1z (C++17)
-- GCC7.x Glang 7.x
+- MSVC 2017, GCC7.x or Glang 7.x
 
 ## Usage Example
 ```cpp
@@ -28,8 +28,13 @@ After that you just need to pick API-KEY up from <a href="http://panel.kavenegar
 int main()
 {
 
+  //! Your Api Key
   std::string apiKey {"Your Api-Key"};
+  
+  //! Kavenegar Default Sender Number 
   std::string senderLine {"10004346"};
+  
+  //! Http/Https Request method type
   Kavenegar::Method MethodType { Kavenegar::Method::GET };
   Kavenegar::KavenegarApi api(MethodType ,"10004346",apiKey);
   
