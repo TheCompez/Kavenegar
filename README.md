@@ -34,8 +34,8 @@ int main()
   //! Kavenegar Default Sender Number 
   std::string senderLine {"10004346"};
   
-  //! Http/Https Request method type
-  Kavenegar::Method MethodType { Kavenegar::Method::GET };
+  //! Http/Https Request method GET/POST type [default is Get method]
+  Kavenegar::Method MethodType { Kavenegar::Method::GET }; 
   Kavenegar::KavenegarApi api(MethodType ,"10004346",apiKey);
   
   //ToDo.. try catch exception handling.
