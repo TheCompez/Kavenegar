@@ -1,7 +1,4 @@
-## Kavenegar SDK
-Kavenegar SDK for modern C++17
-
-## Version 0.6 (Alpha-Concept)
+## Kavenegar API Client Writen In Modern C++
 
 # <a href="http://kavenegar.com/rest.html">Kavenegar RESTful API Document</a>
 If you need to future information about API document Please visit RESTful Document
@@ -48,6 +45,9 @@ int main()
 }
 
 ```
+
+## Contribution
+Bug fixes, docs, and enhancements welcome! Please let me know kambiz.ceo@gmail.com
 
 ## **ToDo**
  * New features
