@@ -35,7 +35,7 @@
 //!Define for Unix base OS such as: Linux, macOS, FreeBSD, etc...
 #define KAVENEGAR_EXPORT __attribute__((visibility("default")))
 #define KAVENEGAR_IMPORT __attribute__((visibility("default")))
-#define _cell_hidden __attribute__((visibility("hidden")))
+#define KAVENEGAR_HIDDEN __attribute__((visibility("hidden")))
 #else
 //  do nothing and hope for the best?
 #define KAVENEGAR_EXPORT
