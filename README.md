@@ -2,7 +2,7 @@
 
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/Kambiz-Asadzadeh/Kavenegar.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Kambiz-Asadzadeh/Kavenegar/alerts/)
 [![Language grade: C/C++](https://img.shields.io/lgtm/grade/cpp/g/Kambiz-Asadzadeh/Kavenegar.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Kambiz-Asadzadeh/Kavenegar/context:cpp)
-[![Language grade: C/C++](https://img.shields.io/badge/C%2B%2B-17-blue)]
+[![Language grade: C/C++](https://img.shields.io/badge/C%2B%2B-17-blue)
 
 # <a href="http://kavenegar.com/rest.html">Kavenegar RESTful API Document</a>
 If you need to future information about API document Please visit RESTful Document
