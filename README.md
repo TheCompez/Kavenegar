@@ -15,7 +15,7 @@ After that you just need to pick API-KEY up from <a href="http://panel.kavenegar
  
 ## Building
 
-- You need to CMake tool for build source code
+- You need CMake tool for building source code
 - Get Curl & RapidJson [Pay Attention: RapidJson is header only]
 - All source code is written with Pure STL 1z (C++17)
 - MSVC 2017, GCC7.x or Glang 7.x
