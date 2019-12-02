@@ -5,6 +5,7 @@
 ![Language iso: C++](https://img.shields.io/badge/C%2B%2B-17-blue)
 ![Version](https://img.shields.io/badge/Version-0.6-lightgrey)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux%20%7C%20iOS%20%7C%20Android%20%7C%20Web-lightgrey)
+![Dependencies](https://img.shields.io/badge/dependencies-Curl%20%7C%20RapidJson-yellow)
 
 # <a href="http://kavenegar.com/rest.html">Kavenegar RESTful API Document</a>
 If you need to future information about API document Please visit RESTful Document
