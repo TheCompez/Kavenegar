@@ -1,4 +1,4 @@
-## Kavenegar API Client Writen In Modern C++
+## Kavenegar API Client Written In Modern C++
 
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/Kambiz-Asadzadeh/Kavenegar.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Kambiz-Asadzadeh/Kavenegar/alerts/)
 [![Language grade: C/C++](https://img.shields.io/lgtm/grade/cpp/g/Kambiz-Asadzadeh/Kavenegar.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Kambiz-Asadzadeh/Kavenegar/context:cpp)
