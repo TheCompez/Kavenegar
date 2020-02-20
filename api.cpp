@@ -16,7 +16,11 @@ namespace Kavenegar {
 
   std::string Api::whitespace_reduce(std::string str)
   {
-    uint64_t index; //!ToDo Fixing for x86 Platform...
+#if defined (_WIN64) || defined (__amd64__)
+    uint64_t index;
+#else
+    uint32_t index;
+#endif
     while ((index = str.find("  ")) != std::string::npos)
       str.erase(index, 1);
     return str;
