@@ -24,7 +24,7 @@ namespace Kavenegar {
 
   std::string Api::whitespace_leading(std::string str)
   {
-    while (std::isspace(*str.begin()))
+    while (isspace(*str.begin()))
       str.erase(str.begin());
     return str;
   }
