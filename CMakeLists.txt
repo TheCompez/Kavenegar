@@ -8,7 +8,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 option(FORCE_COLORED_OUTPUT "Always produce ANSI-colored output (GNU/Clang only)." TRUE)
 option(ENABLE_SAFE_ONLY "Enable the building for safty codes only!" FALSE)
-option(ENABLE_SAFTY_MODE "Enable safty warning mode reporting for compilers." FALSE)
+option(ENABLE_SAFTY_MODE "Enable safety warning mode reporting for compilers." FALSE)
 
 if(ENABLE_SAFE_ONLY)
     SET (CMAKE_CXX_FLAGS "-Werror")
