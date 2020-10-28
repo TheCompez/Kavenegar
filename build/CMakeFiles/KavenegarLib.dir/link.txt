@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc lib/libKavenegarLib.a CMakeFiles/KavenegarLib.dir/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp.o CMakeFiles/KavenegarLib.dir/src/api.cpp.o CMakeFiles/KavenegarLib.dir/src/kavenegar.cpp.o CMakeFiles/KavenegarLib.dir/src/webservice/networkrequest.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib lib/libKavenegarLib.a

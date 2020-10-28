@@ -1,0 +1,3 @@
+/Users/compez/Documents/GitHub/Kavenegar/build/CMakeFiles/rebuild_cache.dir
+/Users/compez/Documents/GitHub/Kavenegar/build/CMakeFiles/edit_cache.dir
+/Users/compez/Documents/GitHub/Kavenegar/build/CMakeFiles/KavenegarLib.dir

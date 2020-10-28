@@ -25,7 +25,7 @@
 #ifndef NETWORKREQUEST_HPP
 #define NETWORKREQUEST_HPP
 
-#include "../common.hpp"
+#include "common.hpp"
 #include <iostream>
 #include <string>
 #include <map>
@@ -64,7 +64,6 @@ namespace WebService {
  */
 
   struct HttpRowHeader {
-
   public:
 
     /*!

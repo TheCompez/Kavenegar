@@ -1,4 +1,4 @@
-﻿#include "networkrequest.hpp"
+﻿#include "webservice/networkrequest.hpp"
 #include "api.hpp"
 #include <memory>
 #include <stdio.h>
